@@ -7,3 +7,5 @@ Este é o back-end de uma aplicação CRUD para gerenciar livros, desenvolvido e
 - .NET Core
 - Entity Framework Core
 - MySQL Server (ou outro banco de dados)
+
+- Comando para rodar o projeto : dotnet run
