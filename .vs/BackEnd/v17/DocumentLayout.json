@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CrudLivros\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|BackEnd.csproj|c:\\users\\user\\desktop\\crudlivros\\backend\\controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|BackEnd.csproj|solutionrelative:controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|BackEnd.csproj|c:\\users\\user\\desktop\\crudlivros\\backend\\data\\livrodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|BackEnd.csproj|solutionrelative:data\\livrodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|BackEnd.csproj|c:\\users\\user\\desktop\\crudlivros\\backend\\dto\\output\\livrooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|BackEnd.csproj|solutionrelative:dto\\output\\livrooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CrudLivros\\BackEnd\\Data\\LivroDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\LivroDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CrudLivros\\BackEnd\\Data\\LivroDbContext.cs",
+              "RelativeToolTip": "Data\\LivroDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:09:36.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroOutput.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CrudLivros\\BackEnd\\DTO\\Output\\LivroOutput.cs",
+              "RelativeDocumentMoniker": "DTO\\Output\\LivroOutput.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CrudLivros\\BackEnd\\DTO\\Output\\LivroOutput.cs",
+              "RelativeToolTip": "DTO\\Output\\LivroOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:09:22.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CrudLivros\\BackEnd\\Controller\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controller\\LivroController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CrudLivros\\BackEnd\\Controller\\LivroController.cs",
+              "RelativeToolTip": "Controller\\LivroController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:58:07.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
